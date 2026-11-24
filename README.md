@@ -2,7 +2,7 @@
 
 *CM4126, Oleksandr Reshetnikov (2409418)*
 
-All code (except for Streamlit app in `app.py`), results and discussions are in `CM4126_coursework.ipynb`. Final model is ResNet50 pretrained on ImageNet. On official ISIC 2019 test set its balanced accuracy is 0.592 (Baseline CNN has 0.497).
+All code (except for Streamlit app in `app.py`), results and discussions are in [`CM4126_coursework.ipynb`](CM4126_coursework.ipynb) (it can be opened right in a browser with all outputs without cloning this repository). Final model is ResNet50 pretrained on ImageNet. On official ISIC 2019 test set its balanced accuracy is 0.592 (Baseline CNN has 0.497).
 
 ## Setup
 
